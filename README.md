@@ -3,7 +3,10 @@
 python3 -m pip install folium
 python3 -m pip install ipykernel
 python3 -m ipykernel install --user --name=projectname
-pip freeze > requirements.txt
+
+python3 -m pip install requests
+
+python3 -m pip freeze > requirements.txt
 ```
 
 ## Load if requirements.txt exists
