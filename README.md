@@ -1,12 +1,15 @@
-pip install folium
-pip install ipykernel
+## Dependencies
+``` bash
+python3 -m pip install folium
+python3 -m pip install ipykernel
 python3 -m ipykernel install --user --name=projectname
 pip freeze > requirements.txt
+```
 
-
-
-## Load
-pip install -r requirements.txt
+## Load if requirements.txt exists
+```bash
+python3 -m pip install -r requirements.txt
+```
 
 ## Jupyter plugin
 
