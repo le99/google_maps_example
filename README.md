@@ -1,6 +1,12 @@
+## Venv
+``` bash
+python3 -m venv .venv
+. ./.venv/bin/activate
+```
+
 ## Dependencies
 ``` bash
-python3 -m pip install folium
+python3 -m pip install folium jupyter
 python3 -m pip install ipykernel
 python3 -m ipykernel install --user --name=projectname
 
