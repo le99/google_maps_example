@@ -31,5 +31,10 @@ https://python-visualization.github.io/folium/modules.html#module-folium.vector_
 
 
 
+## Jupiter run
+```bash
+jupyter notebook
+```
+
 ## Google Maps
 https://developers.google.com/maps/documentation/javascript/adding-a-google-map#maps_add_map-javascript
