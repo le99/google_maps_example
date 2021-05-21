@@ -8,7 +8,7 @@ python -m venv .venv
 ```
 ## Dependencies
 ``` bash
-python -m pip install folium jupyter ipykernel requests
+python -m pip install folium requests
 #or
 python -m pip install -r requirements.txt
 
@@ -32,7 +32,7 @@ python3 -m venv .venv
 
 ## Dependencies
 ``` bash
-python3 -m pip install folium jupyter ipykernel requests
+python3 -m pip install folium requests
 #or
 python3 -m pip install -r requirements.txt
 
