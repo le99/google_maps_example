@@ -8,6 +8,9 @@ si no funciona el comando python intentar python3 o python3.7
 python -m venv .venv
 . ./.venv/Scripts/activate
 ```
+Si no funciona mirar:
+https://stackoverflow.com/questions/18713086/virtualenv-wont-activate-on-windows
+
 ### Dependencies
 ``` bash
 python -m pip install folium
